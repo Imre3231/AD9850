@@ -1,0 +1,26 @@
+_ENCODER: CODE, 2964 0 590
+_tostring3: CODE, 1558 0 738
+__stringdata: SMALLCONST, 1542 0 15
+_intToStr: CODE, 3554 0 286
+___ftpack: CODE, 4318 0 184
+_delay_us: CODE, 5384 0 62
+_main: CODE, 2296 0 668
+___lltoft: CODE, 5108 0 100
+_LCD_isbusy: CODE, 5662 0 30
+__initialization: CODE, 4884 0 108
+_DDSad9833: CODE, 4636 0 124
+_LCD_init: CODE, 5508 0 58
+___lldiv: CODE, 4502 0 134
+_TRIANGLE: SMALLCONST, 1540 0 2
+_LCD_text: CODE, 5304 0 80
+_LCD_cmd: CODE, 5632 0 30
+_delay_ms: CODE, 5446 0 62
+_SQUARE: SMALLCONST, 1538 0 2
+___llmod: CODE, 5002 0 106
+_LCD_data: CODE, 5602 0 30
+_SINE: SMALLCONST, 1536 0 2
+_DDS: CODE, 4760 0 124
+___fttol: CODE, 4094 0 224
+_CLS: CODE, 5710 0 14
+___ftdiv: CODE, 3840 0 254
+Total: 4027
